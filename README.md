@@ -1,0 +1,2 @@
+# Simulation-and-Visualization-of-Electrostatic-Field-Interactions-Using-Coulomb-s-Law
+This project will simulate and visualize electrostatic fields from multiple point charges using Coulomb’s Law, focusing on applications like semiconductors, antennas, and sensors. We'll build a Python tool with NumPy for calculations, Matplotlib for field visualization, and Plotly or Tkinter for interactive charge placement
