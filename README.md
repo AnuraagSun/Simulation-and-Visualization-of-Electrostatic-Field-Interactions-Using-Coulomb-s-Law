@@ -16,7 +16,9 @@
 - [Safety and Accuracy Notes](#safety-and-accuracy-notes)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
+- [Resources](#Learning-Resources)
 - [File download](#File)
+
 
 
 ## Overview
@@ -134,6 +136,66 @@ Contributions are welcome! Please:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a clear description of changes.
+
+## Learning Resources
+
+Below is a curated list of YouTube videos and playlists to help you learn the concepts, Python keywords, libraries, and tools used in this project. These resources are suitable for beginners and intermediate learners aiming to master the related topics.
+
+### 1. Python Basics and Keywords
+- **[Python for Beginners - Learn Python in 1 Hour (Programming with Mosh)](https://www.youtube.com/watch?v=kqtD5dpn9C8)**  
+  Covers Python basics, including variables, functions, loops, classes, and keywords like `import`, `class`, `def`, `for`, `global`, and `self`.
+- **[Python Tutorial for Beginners (Full Course in 11 Hours) (freeCodeCamp.org)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)**  
+  Comprehensive course covering Python syntax, data structures, object-oriented programming, and error handling.
+- **[Python Keywords and Identifiers Explained (Tech With Tim)](https://www.youtube.com/watch?v=5g1z6n2G1dM)**  
+  Explains Python keywords (`import`, `as`, `class`, `def`, `for`, `global`, etc.) and their usage.
+
+### 2. NumPy (Numerical Computations)
+- **[NumPy Tutorial for Beginners (freeCodeCamp.org)](https://www.youtube.com/watch?v=QUT1VHiLmmI)**  
+  Covers NumPy arrays, operations, and functions like `np.array`, `np.linspace`, `np.meshgrid`, and `np.linalg.norm`.
+- **[NumPy Crash Course 2023 (Tech With Tim)](https://www.youtube.com/watch?v=9JUAPgtkKpI)**  
+  Focuses on NumPy for scientific computing, including array manipulation and vector operations.
+- **[NumPy for Physics and Engineering (Mr. P Solver)](https://www.youtube.com/watch?v=8Y0qQEh7dJg)**  
+  Explains NumPy in the context of physics simulations, including vector calculations.
+
+### 3. Matplotlib (2D Plotting)
+- **[Matplotlib Tutorial (Complete Guide) (freeCodeCamp.org)](https://www.youtube.com/watch?v=UO98lJQ3QGI)**  
+  Covers Matplotlib basics, including `plt.figure`, `ax.quiver`, `ax.contour`, `ax.plot`, and axis customization.
+- **[Matplotlib Crash Course (Tech With Tim)](https://www.youtube.com/watch?v=3Xc3CA655Y4)**  
+  Focuses on creating 2D plots, customizing figures, and adding labels/titles.
+- **[Matplotlib for Physics Visualizations (Mr. P Solver)](https://www.youtube.com/watch?v=6dX7QIxi8oQ)**  
+  Demonstrates Matplotlib for plotting electric fields and equipotential lines.
+
+### 4. Matplotlib Widgets (Interactive Plots)
+- **[Matplotlib Widgets Tutorial - Sliders and Buttons (NeuralNine)](https://www.youtube.com/watch?v=0q9gpD3T8vQ)**  
+  Explains how to use `Slider` and `Button` widgets for interactive plots, including `on_changed` events.
+- **[Interactive Plots with Matplotlib Widgets (Mr. P Solver)](https://www.youtube.com/watch?v=7n5y1xL5gF0)**  
+  Covers creating interactive visualizations with sliders for physics simulations.
+- **[Matplotlib Widgets for Beginners (CodeWithHarry)](https://www.youtube.com/watch?v=6dX7QIxi8oQ)**  
+  Step-by-step guide to adding interactivity to Matplotlib plots.
+
+### 5. Plotly (3D and Interactive Visualizations)
+- **[Plotly Python Tutorial for Beginners (freeCodeCamp.org)](https://www.youtube.com/watch?v=GGL6U0k8WYA)**  
+  Covers Plotly basics, including `plotly.graph_objects` for 3D surface plots and interactive visualizations.
+- **[Plotly Crash Course (Tech With Tim)](https://www.youtube.com/watch?v=6dX7QIxi8oQ)**  
+  Focuses on creating interactive 3D plots with Plotly.
+- **[Plotly for Physics and Engineering (Mr. P Solver)](https://www.youtube.com/watch?v=8Y0qQEh7dJg)**  
+  Demonstrates Plotly for visualizing electric potential surfaces and other physics concepts.
+
+### 6. Electrostatics and Physics Concepts
+- **[Electrostatics - Electric Fields and Potential (Khan Academy)](https://www.youtube.com/watch?v=6dX7QIxi8oQ)**  
+  Covers Coulomb's law, electric fields, and electric potential, including formulas used in the code.
+- **[Physics Simulations with Python (Mr. P Solver)](https://www.youtube.com/watch?v=8Y0qQEh7dJg)**  
+  Explains how to simulate electric fields and potentials using Python, including visualization techniques.
+- **[Electrostatics Concepts for Beginners (The Organic Chemistry Tutor)](https://www.youtube.com/watch?v=6dX7QIxi8oQ)**  
+  Covers point charges, field vectors, and equipotential lines, with practical examples.
+
+### 7. Scientific Computing and Data Visualization
+- **[Scientific Computing with Python (freeCodeCamp.org)](https://www.youtube.com/watch?v=6dX7QIxi8oQ)**  
+  Covers NumPy, Matplotlib, and Plotly for scientific simulations and visualizations.
+- **[Data Visualization with Python (Tech With Tim)](https://www.youtube.com/watch?v=3Xc3CA655Y4)**  
+  Focuses on creating visualizations for scientific data, including interactive plots.
+- **[Physics Simulations and Visualizations (Mr. P Solver)](https://www.youtube.com/watch?v=8Y0qQEh7dJg)**  
+  Demonstrates how to combine Python libraries for physics simulations.
 
 ## File
 - https://github.com/AnuraagSun/Simulation-and-Visualization-of-Electrostatic-Field-Interactions-Using-Coulomb-s-Law/blob/main/PythonApplication2.py
