@@ -23,10 +23,10 @@ This Python-based tool simulates and visualizes electrostatic fields and electri
 - An interactive 2D plot with adjustable charge properties (magnitude and position).
 - A 3D surface plot of the electric potential.
   <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/fd13a219-df6d-41a4-b7f1-b60bcebe3aca)" alt="Alt text" width="500">
+  [Image](https://github.com/user-attachments/assets/fd13a219-df6d-41a4-b7f1-b60bcebe3aca)
   </p>
   <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/b3e0eb37-5a73-4417-a445-578f6d1c2cbd)" alt="Alt text" width="500">
+  [Image](https://github.com/user-attachments/assets/b3e0eb37-5a73-4417-a445-578f6d1c2cbd)
   </p>
 
   
