@@ -1,4 +1,4 @@
-# Electrostatic Field Visualization Tool BEGINNER FRIENDLY OPEN SOURCE PROJECT + RESOURCES TO LEARN
+# Electrostatic Field Visualization Tool | BEGINNER FRIENDLY OPEN SOURCE PROJECT + RESOURCES TO LEARN |
 ## Table of Contents
 - [Overview](#overview)
 - [Purpose](#purpose)
