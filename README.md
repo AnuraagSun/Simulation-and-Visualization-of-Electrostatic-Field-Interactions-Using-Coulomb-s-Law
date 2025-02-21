@@ -1,5 +1,3 @@
----
-
 # Electrostatic Field Visualization Tool
 
 ## Overview
@@ -24,12 +22,12 @@ This tool is suitable for:
 
 ## Key Components
 
-### 1. `Charge` Class
+### 1. Charge Class
 Represents a point charge with the following properties:
 - `q`: Charge magnitude (in Coulombs).
 - `pos`: Position in 2D space (x, y coordinates in meters).
 
-### 2. `ElectrostaticField` Class
+### 2. ElectrostaticField Class
 Manages the computation of electric fields and potentials for a given set of charges. Key methods include:
 - `calculate_field(point)`: Computes the electric field vector at a specified point using Coulomb's law.
 - `calculate_potential(point)`: Computes the electric potential at a specified point.
@@ -40,7 +38,7 @@ Parameters:
 - `grid_size`: Size of the square grid (in meters).
 - `grid_points`: Number of points along each grid axis.
 
-### 3. Interactive 2D Visualization (`plot_interactive_field`)
+### 3. Interactive 2D Visualization (plot_interactive_field)
 Displays a 2D plot with:
 - Electric field vectors (blue arrows) using Matplotlib's `quiver` function.
 - Equipotential lines (red contours) using Matplotlib's `contour` function.
@@ -52,7 +50,7 @@ Features interactive sliders for:
 
 Updates the plot in real-time as slider values change.
 
-### 4. 3D Potential Visualization (`plot_3d_potential`)
+### 4. 3D Potential Visualization (plot_3d_potential)
 Generates a 3D surface plot of the electric potential using Plotly. Displays:
 - A surface plot of the potential distribution (colored using the Viridis colormap).
 - Point charge markers (red for positive, blue for negative) at their respective positions.
@@ -67,7 +65,6 @@ Install dependencies using:
 ```bash
 pip install numpy matplotlib plotly
 ```
-
 ## Usage
 
 ### Setup
